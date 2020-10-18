@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "node app.js",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
