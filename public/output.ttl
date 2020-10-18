@@ -1,0 +1,90 @@
+<http://irail.be/stations/bluebike/Antwerpen-Centraal> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Antwerpen-Centraal";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "44"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "50"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008821006>;
+    <http://www.w3.org/ns/locn#geometry> _:g_00.
+_:g_00 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.42105E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.12175E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Brussel-Centraal> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Brussel-Centraal";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "9"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "10"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008813003>;
+    <http://www.w3.org/ns/locn#geometry> _:g_01.
+_:g_01 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.35587E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.08449E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Aalst> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Aalst";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "11"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "11"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008895000>;
+    <http://www.w3.org/ns/locn#geometry> _:g_02.
+_:g_02 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.03856E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.09429E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Asse> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Asse";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "12"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "12"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008812070>;
+    <http://www.w3.org/ns/locn#geometry> _:g_03.
+_:g_03 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.20796E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.09067E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Bergen> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Bergen";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "4"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "4"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008881000>;
+    <http://www.w3.org/ns/locn#geometry> _:g_04.
+_:g_04 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "3.94418E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.04556E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Brugge> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Brugge";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "56"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "69"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008891009>;
+    <http://www.w3.org/ns/locn#geometry> _:g_05.
+_:g_05 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "3.21854E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.1197E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Antwerpen-Berchem> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Antwerpen-Berchem";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "79"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "85"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008821121>;
+    <http://www.w3.org/ns/locn#geometry> _:g_06.
+_:g_06 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.43179E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.11996E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Aarschot> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Aarschot";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "7"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "13"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008833209>;
+    <http://www.w3.org/ns/locn#geometry> _:g_07.
+_:g_07 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.82425E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.09847E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/Brussel-Luxemburg> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Brussel-Luxemburg";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "4"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "6"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008811304>;
+    <http://www.w3.org/ns/locn#geometry> _:g_08.
+_:g_08 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.37289E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.08382E1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://irail.be/stations/bluebike/BrusselNoord> a <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Brussel Noord";
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar> "29"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#totaalPlaatsen> "31"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    <http://www.geonames.org/ontology#nearby> <http://irail.be/stations/NMBS/008812005>;
+    <http://www.w3.org/ns/locn#geometry> _:g_09.
+_:g_09 a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.36049E0"^^<http://www.w3.org/2001/XMLSchema#float>;
+    <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.08601E1"^^<http://www.w3.org/2001/XMLSchema#float>.
